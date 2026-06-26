@@ -6,8 +6,8 @@
 |--------------|---------------|
 | Difficulty   | Easy |
 | Language     | C++   |
-| Runtime      | 44 ms    |
-| Memory       | 14 MB     |
+| Runtime      | N/A    |
+| Memory       | N/A     |
 
 ---
 
@@ -57,5 +57,5 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comp
 ## Solution
 
 ```cpp
-c
+
 ```
